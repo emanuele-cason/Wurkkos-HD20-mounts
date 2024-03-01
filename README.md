@@ -3,7 +3,7 @@ I didn't like the original head mount of the Wurkkos HD20 flashlight for several
 
 There are two versions of the clip (the part that holds the flashlight): one with a twist-to-lock system and another one without. Both work fine for me, and the flashlight doesn't move or fall off even with strong shakes.
 
-The mounts and clips can be assembled with an M3 screw + nut (with a head diameter of 5mm and a max height of 2mm).
+The mounts and clips can be assembled with an M3 screw + nut (with a head diameter of 5.5mm and a max height of 2mm).
 
 ## Flashlight clip: twist-to-lock version
 <div style="display:flex" align="center">
