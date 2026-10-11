@@ -27,3 +27,10 @@ The mounts and clips can be assembled with an M3 screw + nut (with a head diamet
 <div style="display:flex" align="center">
   <img src="rendering/gopro-mount-nolock.png" alt="Torch Headlamp Support" height="300">
 </div>
+
+## Assembled Prototypes
+<p align="center">
+  <img src="photos/gopro-stick-mount.jpg" alt="GoPro Mount" height="400">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="photos/head-mount.jpg" alt="Head Mount" height="400">
+</p>
